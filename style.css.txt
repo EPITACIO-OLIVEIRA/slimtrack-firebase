@@ -1,0 +1,55 @@
+(simples, apenas visual)
+
+body {
+
+    font-family: Arial, sans-serif;
+
+    background-color: #f9f9f9;
+
+    padding: 20px;
+
+}
+
+
+
+#app {
+
+    max-width: 600px;
+
+    margin: auto;
+
+}
+
+
+
+textarea {
+
+    width: 100%;
+
+    height: 100px;
+
+    margin-bottom: 10px;
+
+}
+
+
+
+button {
+
+    margin-right: 5px;
+
+}
+
+
+
+#historico {
+
+    margin-top: 20px;
+
+    background-color: #fff;
+
+    padding: 10px;
+
+    border: 1px solid #ccc;
+
+}

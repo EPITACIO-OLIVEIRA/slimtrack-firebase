@@ -1,0 +1,39 @@
+(SlimTrack front-end)
+
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <title>SlimTrack Sync</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <h1>SlimTrack Sync</h1>
+
+    <div id="app">
+
+        <!-- Área principal do SlimTrack -->
+
+        <textarea id="inputDados" placeholder="Digite seus dados aqui..."></textarea>
+
+        <button id="salvarBtn">Salvar</button>
+
+        <button id="carregarBtn">Carregar Histórico</button>
+
+        <div id="historico"></div>
+
+    </div>
+
+    <script type="module" src="app.js"></script>
+
+</body>
+
+</html>
